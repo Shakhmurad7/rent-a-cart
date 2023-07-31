@@ -1,9 +1,60 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    {
+      "id": 1,
+      "name": "Toyota Tacoma",
+      "img": "./img/mercedes.png",
+      "year": 2021,
+      "price": 75,
+      "motor": 2.5,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    },
+
+    {
+      "id": 2,
+      "name": "Toyota camri",
+      "year": 2020,
+      "price": 80,
+      "motor": 3.0,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    },
+    {
+      "id": 3,
+      "name": "mercedes gts",
+      "year": 2020,
+      "price": 220,
+      "motor": 4.0,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    },
+    {
+      "id": 4,
+      "name": "mersedes amg",
+      "year": 2021,
+      "price": 300,
+      "motor": 6.3,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    },
+    {
+      "id": 5,
+      "name": "Bmw x5",
+      "year": 2019,
+      "price": 150,
+      "motor": 3.0,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    },
+    {
+      "id": 6,
+      "name": "Audi a8",
+      "year": 2015,
+      "price": 140,
+      "motor": 4.0,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    }
+  ]
 }
