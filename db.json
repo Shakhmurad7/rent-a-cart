@@ -3,18 +3,18 @@
     {
       "id": 1,
       "name": "Toyota Tacoma",
-      "img": "./img/mercedes.png",
       "year": "2021-ci",
+      "img":"./img/Toyota Tacoma.jpg",
       "price": 75,
       "motor": 2.5,
       "korobka": "Auto",
       "fuel": "Yanacaq"
     },
-
+    
     {
       "id": 2,
       "name": "Toyota camri",
-      "img": "./img/toyotacamri.png",
+      "img": "./img/camry.jpg",
       "year": "2020-ci",
       "price": 80,
       "motor": 3.0,
@@ -24,6 +24,7 @@
     {
       "id": 3,
       "name": "mercedes gts",
+      "img":"./img/mercedes.png",
       "year": "2020-ci",
       "price": 220,
       "motor": 4.0,
@@ -33,6 +34,7 @@
     {
       "id": 4,
       "name": "mersedes amg",
+      "img":"./img/mercedes amg.jpg",
       "year": "2021-ci",
       "price": 300,
       "motor": 6.3,
@@ -42,6 +44,7 @@
     {
       "id": 5,
       "name": "Bmw x5",
+      "img": "./img/Bmw x5.jpg",
       "year": "2019-cu",
       "price": 150,
       "motor": 3.0,
@@ -51,6 +54,7 @@
     {
       "id": 6,
       "name": "Audi a8",
+      "img":"./img/Audi a8.jpg",
       "year": "2015-ci",
       "price": 140,
       "motor": 4.0,
