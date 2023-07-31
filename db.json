@@ -53,11 +53,51 @@
     },
     {
       "id": 6,
-      "name": "Audi a8",
-      "img":"./img/Audi a8.jpg",
+      "name": "Audi a7",
+      "img":"./img/Audi a7.jpg",
       "year": "2015-ci",
-      "price": 140,
+      "price": 120,
+      "motor": 3.0,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    },
+    {
+      "id": 7,
+      "name": "Bmw m8",
+      "img":"./img/Bmw m8.jpg",
+      "year": "2015-ci",
+      "price": 350,
+      "motor": 4.4,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    },
+    {
+      "id": 8,
+      "name": "posrh 911",
+      "img":"./img/posrh 911.jpg",
+      "year": "2018-ci",
+      "price": 250,
       "motor": 4.0,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    },
+    {
+      "id": 9,
+      "name": "Bwm m5",
+      "img":"./img/Bwm m5.jpg",
+      "year": "2015-ci",
+      "price": 300,
+      "motor": 4.4,
+      "korobka": "Auto",
+      "fuel": "Yanacaq"
+    },
+    {
+      "id": 10,
+      "name": "Audi a6",
+      "img":"./img/Audi a6.jpg",
+      "year": "2012-ci",
+      "price": 100,
+      "motor": 3.0,
       "korobka": "Auto",
       "fuel": "Yanacaq"
     }
