@@ -8,7 +8,8 @@
       "price": 75,
       "motor": 2.5,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     },
     
     {
@@ -19,7 +20,8 @@
       "price": 80,
       "motor": 3.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     },
     {
       "id": 3,
@@ -29,7 +31,8 @@
       "price": 220,
       "motor": 4.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     },
     {
       "id": 4,
@@ -39,7 +42,8 @@
       "price": 300,
       "motor": 6.3,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     },
     {
       "id": 5,
@@ -49,7 +53,8 @@
       "price": 150,
       "motor": 3.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     },
     {
       "id": 6,
@@ -59,7 +64,8 @@
       "price": 120,
       "motor": 3.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     },
     {
       "id": 7,
@@ -69,7 +75,8 @@
       "price": 350,
       "motor": 4.4,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     },
     {
       "id": 8,
@@ -79,7 +86,8 @@
       "price": 250,
       "motor": 4.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     },
     {
       "id": 9,
@@ -89,7 +97,8 @@
       "price": 300,
       "motor": 4.4,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     },
     {
       "id": 10,
@@ -99,7 +108,8 @@
       "price": 100,
       "motor": 3.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq"
+      "fuel": "Yanacaq",
+      "link":"./singel.html"
     }
   ]
 }
