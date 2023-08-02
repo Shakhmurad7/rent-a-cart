@@ -36,7 +36,7 @@
     },
     {
       "id": 4,
-      "name": "mersedes amg",
+      "name": "mercedes amg",
       "img":"./img/mersedes amg.jpg",
       "year": "2021-ci",
       "price": 300,
@@ -91,7 +91,7 @@
     },
     {
       "id": 9,
-      "name": "Bwm m5",
+      "name": "Bmw m5",
       "img":"./img/Bwm m5.jpg",
       "year": "2015-ci",
       "price": 300,
