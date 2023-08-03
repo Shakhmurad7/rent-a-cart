@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "name": "Toyota Tacoma",
+      "name": "Toyota",
+      "model":"Tacoma",
       "year": "2021-ci",
       "img":"./img/Toyota Tacoma.jpg",
       "price": 75,
@@ -14,7 +15,8 @@
     
     {
       "id": 2,
-      "name": "Toyota camri",
+      "name": "Toyota",
+      "model":"Camry",
       "img": "./img/camry.jpg",
       "year": "2020-ci",
       "price": 80,
@@ -25,7 +27,8 @@
     },
     {
       "id": 3,
-      "name": "mercedes gts",
+      "name": "mercedes",
+      "model":"Gts",
       "img":"./img/mercedes.png",
       "year": "2020-ci",
       "price": 220,
@@ -36,7 +39,8 @@
     },
     {
       "id": 4,
-      "name": "mercedes amg",
+      "name": "mercedes",
+      "model":"Amg",
       "img":"./img/mersedes amg.jpg",
       "year": "2021-ci",
       "price": 300,
@@ -48,6 +52,7 @@
     {
       "id": 5,
       "name": "Bmw x5",
+      "model":"X5",
       "img": "./img/Bmw x5.jpg",
       "year": "2019-cu",
       "price": 150,
@@ -58,7 +63,8 @@
     },
     {
       "id": 6,
-      "name": "Audi a7",
+      "name": "Audi",
+      "model":"A7",
       "img":"./img/audi a7.jpg",
       "year": "2015-ci",
       "price": 120,
@@ -69,7 +75,8 @@
     },
     {
       "id": 7,
-      "name": "Bmw m8",
+      "name": "Bmw",
+      "model":"M8",
       "img":"./img/Bwm m8.jpg",
       "year": "2015-ci",
       "price": 350,
@@ -81,6 +88,7 @@
     {
       "id": 8,
       "name": "posrh 911",
+      "model":"911",
       "img":"./img/posrh 911.jpg",
       "year": "2018-ci",
       "price": 250,
@@ -91,7 +99,8 @@
     },
     {
       "id": 9,
-      "name": "Bmw m5",
+      "name": "Bmw",
+      "model":"M5",
       "img":"./img/Bwm m5.jpg",
       "year": "2015-ci",
       "price": 300,
@@ -102,7 +111,8 @@
     },
     {
       "id": 10,
-      "name": "Audi a6",
+      "name": "Audi",
+      "model":"A6",
       "img":"./img/Audi a6.jpg",
       "year": "2012-ci",
       "price": 100,
