@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "name": "Toyota",
+      "name": "Toyota Tacoma",
       "model":"Tacoma",
       "year": "2021-ci",
       "img":"./img/Toyota Tacoma.jpg",
@@ -15,7 +15,7 @@
     
     {
       "id": 2,
-      "name": "Toyota",
+      "name": "Toyota Camry",
       "model":"Camry",
       "img": "./img/camry.jpg",
       "year": "2020-ci",
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "name": "mercedes",
+      "name": "mercedes Gts",
       "model":"Gts",
       "img":"./img/mercedes.png",
       "year": "2020-ci",
@@ -39,7 +39,7 @@
     },
     {
       "id": 4,
-      "name": "mercedes",
+      "name": "mercedes Amg",
       "model":"Amg",
       "img":"./img/mersedes amg.jpg",
       "year": "2021-ci",
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "name": "Audi",
+      "name": "Audi A7",
       "model":"A7",
       "img":"./img/audi a7.jpg",
       "year": "2015-ci",
@@ -75,7 +75,7 @@
     },
     {
       "id": 7,
-      "name": "Bmw",
+      "name": "Bmw M8",
       "model":"M8",
       "img":"./img/Bwm m8.jpg",
       "year": "2015-ci",
@@ -99,7 +99,7 @@
     },
     {
       "id": 9,
-      "name": "Bmw",
+      "name": "Bmw M5",
       "model":"M5",
       "img":"./img/Bwm m5.jpg",
       "year": "2015-ci",
@@ -111,7 +111,7 @@
     },
     {
       "id": 10,
-      "name": "Audi",
+      "name": "Audi A6",
       "model":"A6",
       "img":"./img/Audi a6.jpg",
       "year": "2012-ci",
