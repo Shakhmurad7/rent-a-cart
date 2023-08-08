@@ -111,7 +111,7 @@
       "brend":"BMW",
       "class":"sedan",
       "model":"M5",
-      "img":"./img/Bwm m5.jpg",
+      "img":"../img/Bwm m5.jpg",
       "year": "2015-ci",
       "price": 300,
       "motor": 4.4,
