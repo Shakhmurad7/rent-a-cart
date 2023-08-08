@@ -7,12 +7,11 @@
       "brend":"Toyota",
       "class":"jeep",
       "year": "2021-ci",
-      "img":"./img/Toyota Tacoma.jpg",
+      "img":"../img/Toyota Tacoma.jpg",
       "price": 75,
       "motor": 2.5,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     },
     
     {
@@ -21,13 +20,12 @@
       "model":"Camry",
       "brend":"Toyota",
       "class":"sedan",
-      "img": "./img/camry.jpg",
+      "img": "../img/camry.jpg",
       "year": "2020-ci",
       "price": 80,
       "motor": 3.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     },
     {
       "id": 3,
@@ -35,13 +33,12 @@
       "model":"Gts",
       "brend":"mercedes",
       "class":"sedan",
-      "img":"./img/mercedes.png",
+      "img":"../img/mercedes.png",
       "year": "2020-ci",
       "price": 220,
       "motor": 4.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     },
     {
       "id": 4,
@@ -49,13 +46,12 @@
       "brend":"mercedes",
       "class":"sedan",
       "model":"Amg",
-      "img":"./img/mersedes amg.jpg",
+      "img":"../img/mersedes amg.jpg",
       "year": "2021-ci",
       "price": 300,
       "motor": 6.3,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     },
     {
       "id": 5,
@@ -63,13 +59,12 @@
       "class":"jeep",
       "name": "Bmw x5",
       "model":"X5",
-      "img": "./img/Bmw x5.jpg",
+      "img": "../img/Bmw x5.jpg",
       "year": "2019-cu",
       "price": 150,
       "motor": 3.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     },
     {
       "id": 6,
@@ -77,13 +72,12 @@
       "model":"A7",
       "brend":"audi",
       "class":"jeep",
-      "img":"./img/audi a7.jpg",
+      "img":"../img/audi a7.jpg",
       "year": "2015-ci",
       "price": 120,
       "motor": 3.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     },
     {
       "id": 7,
@@ -91,13 +85,12 @@
       "model":"M8",
       "brend":"BMW",
       "class":"sedan",
-      "img":"./img/Bwm m8.jpg",
+      "img":"../img/Bwm m8.jpg",
       "year": "2015-ci",
       "price": 350,
       "motor": 4.4,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     },
     {
       "id": 8,
@@ -105,13 +98,12 @@
       "brend":"porsche",
       "class":"sedan",
       "model":"911",
-      "img":"./img/posrh 911.jpg",
+      "img":"../img/posrh 911.jpg",
       "year": "2018-ci",
       "price": 250,
       "motor": 4.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     },
     {
       "id": 9,
@@ -124,8 +116,7 @@
       "price": 300,
       "motor": 4.4,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     },
     {
       "id": 10,
@@ -133,13 +124,12 @@
       "model":"A6",
       "brend":"audi",
       "class":"sedan",
-      "img":"./img/Audi a6.jpg",
+      "img":"../img/Audi a6.jpg",
       "year": "2012-ci",
       "price": 100,
       "motor": 3.0,
       "korobka": "Auto",
-      "fuel": "Yanacaq",
-      "link":"./singel.html"
+      "fuel": "Yanacaq"
     }
   ]
 }
