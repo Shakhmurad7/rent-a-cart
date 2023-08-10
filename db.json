@@ -7,7 +7,18 @@
       "brend":"Toyota",
       "class":"jeep",
       "year": "2021-ci",
-      "img":"../img/Toyota Tacoma.jpg",
+      "img":[
+        {
+          "img":"../img/Toyota Tacoma.jpg"
+        },
+        {
+          "img":"../img/toyota-1.jpg"
+        },
+        {
+          "img":"../img/toyota-2.jpg"
+        }
+
+      ],
       "price": 75,
       "motor": 2.5,
       "korobka": "Auto",
@@ -20,7 +31,18 @@
       "model":"Camry",
       "brend":"Toyota",
       "class":"sedan",
-      "img": "../img/camry.jpg",
+      "img":[
+        {
+          "img":"../img/camry.jpg"
+        },
+        {
+          "img":"../img/camry-1.jpg"
+        },
+        {
+          "img":"../img/camry-2.jpg"
+        }
+
+      ],
       "year": "2020-ci",
       "price": 80,
       "motor": 3.0,
@@ -33,7 +55,18 @@
       "model":"Gts",
       "brend":"mercedes",
       "class":"sedan",
-      "img":"../img/mercedes.png",
+      "img":[
+        {
+          "img":"../img/mercedes.png"
+        },
+        {
+          "img":"../img/gts-1.jpg"
+        },
+        {
+          "img":"../img/gts-2.jpg"
+        }
+
+      ],
       "year": "2020-ci",
       "price": 220,
       "motor": 4.0,
@@ -46,7 +79,19 @@
       "brend":"mercedes",
       "class":"sedan",
       "model":"Amg",
-      "img":"../img/mersedes amg.jpg",
+      "img":[
+        {
+          "img":"../img/mersedes amg.jpg"
+        },
+        {
+          "img":"../img/amg-1.jpg"
+        },
+        {
+          "img":"../img/amg-2.jpg"
+        }
+
+      ],
+
       "year": "2021-ci",
       "price": 300,
       "motor": 6.3,
@@ -58,8 +103,19 @@
       "brend":"BMW",
       "class":"jeep",
       "name": "Bmw x5",
-      "model":"X5",
-      "img": "../img/Bmw x5.jpg",
+      "model":"X5", 
+        "img":[
+        {
+          "img":"../img/Bmw x5.jpg"
+        },
+        {
+          "img":"../img/x5-1.jpg"
+        },
+        {
+          "img":"../img/x5-2.jpg"
+        }
+
+      ],
       "year": "2019-cu",
       "price": 150,
       "motor": 3.0,
@@ -72,7 +128,18 @@
       "model":"A7",
       "brend":"audi",
       "class":"jeep",
-      "img":"../img/audi a7.jpg",
+      "img":[
+        {
+          "img":"../img/audi a7.jpg"
+        },
+        {
+          "img":"../img/a7-1.jpg"
+        },
+        {
+          "img":"../img/a7-2.jpg"
+        }
+
+      ],
       "year": "2015-ci",
       "price": 120,
       "motor": 3.0,
@@ -85,7 +152,18 @@
       "model":"M8",
       "brend":"BMW",
       "class":"sedan",
-      "img":"../img/Bwm m8.jpg",
+      "img":[
+        {
+          "img":"../img/Bwm m8.jpg"
+        },
+        {
+          "img":"../img/m8-1.jpg"
+        },
+        {
+          "img":"../img/m8-2.jpg"
+        }
+
+      ],
       "year": "2015-ci",
       "price": 350,
       "motor": 4.4,
@@ -98,7 +176,18 @@
       "brend":"porsche",
       "class":"sedan",
       "model":"911",
-      "img":"../img/posrh 911.jpg",
+      "img":[
+        {
+          "img":"../img/posrh 911.jpg"
+        },
+        {
+          "img":"../img/911-1.jpg"
+        },
+        {
+          "img":"../img/911-2.jpg"
+        }
+
+      ],
       "year": "2018-ci",
       "price": 250,
       "motor": 4.0,
@@ -111,7 +200,18 @@
       "brend":"BMW",
       "class":"sedan",
       "model":"M5",
-      "img":"../img/Bwm m5.jpg",
+      "img":[
+        {
+          "img":"../img/Bwm m5.jpg"
+        },
+        {
+          "img":"../img/m5-1.jpg"
+        },
+        {
+          "img":"../img/m5-2.jpg"
+        }
+
+      ],
       "year": "2015-ci",
       "price": 300,
       "motor": 4.4,
@@ -124,7 +224,18 @@
       "model":"A6",
       "brend":"audi",
       "class":"sedan",
-      "img":"../img/Audi a6.jpg",
+      "img":[
+        {
+          "img":"../img/Audi a6.jpg"
+        },
+        {
+          "img":"../img/a6-1.jpg"
+        },
+        {
+          "img":"../img/a6-2.jpg"
+        }
+
+      ],
       "year": "2012-ci",
       "price": 100,
       "motor": 3.0,
